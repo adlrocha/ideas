@@ -8,3 +8,4 @@ List of links with things I don't want to forget or I want to explore in the fut
 * [Looking Into the Eye of the Interplanetary Storm](https://www.bitdefender.com/files/News/CaseStudies/study/376/Bitdefender-Whitepaper-IPStorm.pdf?clickid=U83WZOxw3xyLTWRwUx0Mo3EAUkExytV5SUS9Sc0&irgwc=1&MPid=10078&cid=aff%7Cc%7CIR): Good insight about the Interplanetary Storm Botnet.
 * [Scuttlebot](https://scuttlebutt.nz/): It is a fast growing decentralized social network.
 * [NAT Slipstreaming](https://samy.pl/slipstream/): NAT Slipstreaming allows an attacker to remotely access any TCP/UDP service bound to a victim machine, bypassing the victim's NAT/firewall (arbitrary firewall pinhole control), just by the victim visiting a website.
+* [Beaker Browser](https://beakerbrowser.com/): A peer-to-peer browser for Web hackers. 
