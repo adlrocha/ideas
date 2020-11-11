@@ -22,5 +22,6 @@
 * [Merkle-CRDTs Merkle-DAGs meet CRDTs](https://arxiv.org/pdf/2004.00107.pdf)
 
 ### Cryptography
+* [Lunar:a Toolbox for More Efficient Universal and Updatable zkSNARKsand Commit-and-Prove Extensions](https://eprint.iacr.org/2020/1069.pdf)
 * [Zero-Knowledge Contingent Payments Revisited:Attacks and Payments for Services](http://stevengoldfeder.com/papers/ZKCSP.pdf)
 * [WI Is Not Enough:  Zero-KnowledgeContingent (Service) Payments Revisited](https://eprint.iacr.org/2019/964.pdf)
