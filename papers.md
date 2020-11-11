@@ -20,3 +20,7 @@
 
 ### CS
 * [Merkle-CRDTs Merkle-DAGs meet CRDTs](https://arxiv.org/pdf/2004.00107.pdf)
+
+### Cryptography
+* [Zero-Knowledge Contingent Payments Revisited:Attacks and Payments for Services](http://stevengoldfeder.com/papers/ZKCSP.pdf)
+* [WI Is Not Enough:  Zero-KnowledgeContingent (Service) Payments Revisited](https://eprint.iacr.org/2019/964.pdf)
