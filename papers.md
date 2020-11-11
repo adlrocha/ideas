@@ -7,7 +7,6 @@
 * [Analyzing the Performance of ICN Forwarders on the Wire](https://dl.acm.org/doi/pdf/10.1145/3405656.3418722)
 * [Hierarchical Web Caching Systems: Modeling,Design and Experimental Results](https://eclass.uoa.gr/modules/document/file.php/D209/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82/2014%20%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B5%CF%82/E.08%20Hierarchical%20web%20caching%20systems_%20Modeling%20design%20and%20experimental%20results.pdf)
 * [A Delay-Tolerant Network Architecture for Challenged Internets](https://dl.acm.org/doi/pdf/10.1145/863955.863960)
-* 
 
 ### P2P
 * [SLIC:A SelfishLink-based Incentive Mechanism for Unstructured Peer-to-Peer Networks](http://ilpubs.stanford.edu:8090/606/1/2003-46.pdf)
